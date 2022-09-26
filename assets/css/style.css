@@ -15,7 +15,7 @@ body {
     color: #ffffff;
 }
 
-#h1-id {
+#title-id {
     display: inline-block;
     font-size: 48px;
 }
@@ -50,10 +50,12 @@ p {
 }
 
 /* moved image path to the html */
+/* fixed the cropping for the image after moving it to html */
 .hero {
-    height: 100%;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    object-fit: cover;
 }
 /* moved content class in order of html code */
 .content {
