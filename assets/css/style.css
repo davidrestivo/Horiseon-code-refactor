@@ -51,9 +51,10 @@ p {
 
 /* moved image path to the html */
 .hero {
-    height: 1000px;
+    height: 100%;
     width: 100%;
     margin-bottom: 25px;
+    object-fit: fill;
   
 }
 /* moved content class in order of html code */
