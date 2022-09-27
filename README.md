@@ -12,7 +12,7 @@ https://github.com/davidrestivo/Horiseon-code-refactor
 
 ## Screenshot
 
-![Screenshot of homework webpage](./assets/images/screencapture-file-Users-davidrestivo-code-bootcamp-homework-Horiseon-code-refactor-index-html-2022-09-26-18_47_56)
+![Screenshot of homework webpage](./assets/images/screencapture-file-Users-davidrestivo-code-bootcamp-homework-Horiseon-code-refactor-index-html-2022-09-26-18_47_56.png)
 
 
 
